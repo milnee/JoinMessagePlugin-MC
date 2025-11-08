@@ -1,0 +1,15 @@
+name: JoinMessage
+version: 1.0
+main: millen.joinmessage.Main
+author: millen
+description: A simple join message plugin
+commands:
+  joinmessage:
+    description: "Toggle join messages"
+    usage: "/joinmessage"
+    permission: joinmessage.command
+    
+  joinmessagereload:
+    description: "Reload join messages"
+    usage: "/joinmessagereload"
+    permission: joinmessage.reload
