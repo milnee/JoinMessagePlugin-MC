@@ -67,35 +67,14 @@ Found a bug? Please open an [issue](../../issues) with:
 
 ## 🌐 Links
 
-- 🌍 Website: https://millen.dev
-- 💬 Discord: https://discord.gg/test
+- 🌍 Website: N/A
+- 💬 Discord: N/A
 - 🐱 GitHub: https://github.com/milnee
 
 ## 📋 Upcoming Features
 
-- [ ] More advanced placeholders
 - [ ] Custom join sound
-- [ ] Per-group join messages
-
-## 🤖 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-[Specify your license here - e.g., MIT License]
 
 ## 👨‍💻 Author
 
-**Millen Singh**
-- Email: singh-m21@ulster.ac.uk
 - GitHub: [@milnee](https://github.com/milnee)
-
----
-
-**Happy Server Hosting! 🎮✨**
