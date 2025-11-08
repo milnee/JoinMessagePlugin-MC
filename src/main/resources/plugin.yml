@@ -3,6 +3,7 @@ version: 1.0
 main: millen.joinmessage.Main
 author: millen
 description: A simple join message plugin
+
 commands:
   joinmessage:
     description: "Toggle join messages"
