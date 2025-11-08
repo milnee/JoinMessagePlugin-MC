@@ -95,6 +95,9 @@ public class Main extends JavaPlugin implements Listener, CommandExecutor {
             // Combine join messages into a single message
             StringBuilder messageBuilder = new StringBuilder();
             for (String line : joinMessages) {
+                // Replace {player} placeholder with actual player name
+                line = line.replace("{player}", player.getName());
+                
                 // If line is empty, add a space character
                 if (line.trim().isEmpty()) {
                     messageBuilder.append(" \n");

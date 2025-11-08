@@ -3,6 +3,8 @@ messages:
   join:
     - "&7--------------------------------"
     - ""
+    - "&fWelcome, &a{player}&a to the server!"
+    - ""
     - "&aDevelopment by Millen"
     - "&aWebsite: &fhttps://millen.dev"
     - "&aDiscord: &fhttps://discord.gg/test"
